@@ -1,0 +1,5 @@
+/home/shrexpecial/RiderProjects/Dictionaries Lambda Exp and LINQ/DragonQuest/obj/Debug/.NETFramework,Version=v4.6.1.AssemblyAttribute.cs
+/home/shrexpecial/RiderProjects/Dictionaries Lambda Exp and LINQ/DragonQuest/bin/Debug/DragonQuest.exe.mdb
+/home/shrexpecial/RiderProjects/Dictionaries Lambda Exp and LINQ/DragonQuest/bin/Debug/DragonQuest.exe
+/home/shrexpecial/RiderProjects/Dictionaries Lambda Exp and LINQ/DragonQuest/obj/Debug/DragonQuest.exe
+/home/shrexpecial/RiderProjects/Dictionaries Lambda Exp and LINQ/DragonQuest/obj/Debug/DragonQuest.exe.mdb

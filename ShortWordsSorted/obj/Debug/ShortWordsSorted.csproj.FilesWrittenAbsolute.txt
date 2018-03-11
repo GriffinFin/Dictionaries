@@ -1,0 +1,5 @@
+/home/shrexpecial/RiderProjects/Dictionaries Lambda Exp and LINQ/ShortWordsSorted/obj/Debug/.NETFramework,Version=v4.6.1.AssemblyAttribute.cs
+/home/shrexpecial/RiderProjects/Dictionaries Lambda Exp and LINQ/ShortWordsSorted/bin/Debug/ShortWordsSorted.exe.mdb
+/home/shrexpecial/RiderProjects/Dictionaries Lambda Exp and LINQ/ShortWordsSorted/bin/Debug/ShortWordsSorted.exe
+/home/shrexpecial/RiderProjects/Dictionaries Lambda Exp and LINQ/ShortWordsSorted/obj/Debug/ShortWordsSorted.exe
+/home/shrexpecial/RiderProjects/Dictionaries Lambda Exp and LINQ/ShortWordsSorted/obj/Debug/ShortWordsSorted.exe.mdb

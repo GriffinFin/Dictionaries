@@ -1,0 +1,5 @@
+/home/shrexpecial/RiderProjects/Dictionaries Lambda Exp and LINQ/TheCancerOne/obj/Debug/.NETFramework,Version=v4.6.1.AssemblyAttribute.cs
+/home/shrexpecial/RiderProjects/Dictionaries Lambda Exp and LINQ/TheCancerOne/bin/Debug/TheCancerOne.exe.mdb
+/home/shrexpecial/RiderProjects/Dictionaries Lambda Exp and LINQ/TheCancerOne/bin/Debug/TheCancerOne.exe
+/home/shrexpecial/RiderProjects/Dictionaries Lambda Exp and LINQ/TheCancerOne/obj/Debug/TheCancerOne.exe
+/home/shrexpecial/RiderProjects/Dictionaries Lambda Exp and LINQ/TheCancerOne/obj/Debug/TheCancerOne.exe.mdb

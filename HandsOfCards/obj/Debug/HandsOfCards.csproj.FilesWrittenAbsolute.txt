@@ -1,0 +1,5 @@
+/home/shrexpecial/RiderProjects/Dictionaries Lambda Exp and LINQ/HandsOfCards/obj/Debug/.NETFramework,Version=v4.6.1.AssemblyAttribute.cs
+/home/shrexpecial/RiderProjects/Dictionaries Lambda Exp and LINQ/HandsOfCards/bin/Debug/HandsOfCards.exe.mdb
+/home/shrexpecial/RiderProjects/Dictionaries Lambda Exp and LINQ/HandsOfCards/bin/Debug/HandsOfCards.exe
+/home/shrexpecial/RiderProjects/Dictionaries Lambda Exp and LINQ/HandsOfCards/obj/Debug/HandsOfCards.exe
+/home/shrexpecial/RiderProjects/Dictionaries Lambda Exp and LINQ/HandsOfCards/obj/Debug/HandsOfCards.exe.mdb

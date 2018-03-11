@@ -1,0 +1,5 @@
+/home/shrexpecial/RiderProjects/Dictionaries Lambda Exp and LINQ/UserLogs/obj/Debug/.NETFramework,Version=v4.6.1.AssemblyAttribute.cs
+/home/shrexpecial/RiderProjects/Dictionaries Lambda Exp and LINQ/UserLogs/bin/Debug/UserLogs.exe.mdb
+/home/shrexpecial/RiderProjects/Dictionaries Lambda Exp and LINQ/UserLogs/bin/Debug/UserLogs.exe
+/home/shrexpecial/RiderProjects/Dictionaries Lambda Exp and LINQ/UserLogs/obj/Debug/UserLogs.exe
+/home/shrexpecial/RiderProjects/Dictionaries Lambda Exp and LINQ/UserLogs/obj/Debug/UserLogs.exe.mdb

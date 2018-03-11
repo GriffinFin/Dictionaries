@@ -1,0 +1,5 @@
+/home/shrexpecial/RiderProjects/Dictionaries Lambda Exp and LINQ/TestArea/obj/Debug/.NETFramework,Version=v4.6.1.AssemblyAttribute.cs
+/home/shrexpecial/RiderProjects/Dictionaries Lambda Exp and LINQ/TestArea/bin/Debug/TestArea.exe.mdb
+/home/shrexpecial/RiderProjects/Dictionaries Lambda Exp and LINQ/TestArea/bin/Debug/TestArea.exe
+/home/shrexpecial/RiderProjects/Dictionaries Lambda Exp and LINQ/TestArea/obj/Debug/TestArea.exe
+/home/shrexpecial/RiderProjects/Dictionaries Lambda Exp and LINQ/TestArea/obj/Debug/TestArea.exe.mdb

@@ -1,0 +1,5 @@
+/home/shrexpecial/RiderProjects/Dictionaries Lambda Exp and LINQ/RegexTest/obj/Debug/.NETFramework,Version=v4.6.1.AssemblyAttribute.cs
+/home/shrexpecial/RiderProjects/Dictionaries Lambda Exp and LINQ/RegexTest/bin/Debug/RegexTest.exe.mdb
+/home/shrexpecial/RiderProjects/Dictionaries Lambda Exp and LINQ/RegexTest/bin/Debug/RegexTest.exe
+/home/shrexpecial/RiderProjects/Dictionaries Lambda Exp and LINQ/RegexTest/obj/Debug/RegexTest.exe
+/home/shrexpecial/RiderProjects/Dictionaries Lambda Exp and LINQ/RegexTest/obj/Debug/RegexTest.exe.mdb

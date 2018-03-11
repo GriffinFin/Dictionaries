@@ -1,0 +1,5 @@
+/home/shrexpecial/RiderProjects/Dictionaries Lambda Exp and LINQ/Odd Occurences/obj/Debug/.NETFramework,Version=v4.6.1.AssemblyAttribute.cs
+/home/shrexpecial/RiderProjects/Dictionaries Lambda Exp and LINQ/Odd Occurences/bin/Debug/Odd_Occurences.exe.mdb
+/home/shrexpecial/RiderProjects/Dictionaries Lambda Exp and LINQ/Odd Occurences/bin/Debug/Odd_Occurences.exe
+/home/shrexpecial/RiderProjects/Dictionaries Lambda Exp and LINQ/Odd Occurences/obj/Debug/Odd_Occurences.exe
+/home/shrexpecial/RiderProjects/Dictionaries Lambda Exp and LINQ/Odd Occurences/obj/Debug/Odd_Occurences.exe.mdb
